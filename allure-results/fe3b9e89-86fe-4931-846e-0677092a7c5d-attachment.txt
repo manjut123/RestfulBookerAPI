@@ -1,0 +1,1 @@
+{"bookingid":3416,"booking":{"firstname":"Gale","lastname":"Okuneva","totalprice":480,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Voluptatem veniam voluptas."}}

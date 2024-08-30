@@ -1,0 +1,1 @@
+{"bookingid":950,"booking":{"firstname":"Jade","lastname":"Funk","totalprice":422,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Nemo nisi tempore."}}

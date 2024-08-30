@@ -1,0 +1,36 @@
+<div>PATCH to https://restful-booker.herokuapp.com/booking/476</div>
+
+<h4>Body</h4>
+<div>
+    <pre class="preformated-text">
+    {
+    &quot;firstname&quot;: &quot;Jordan&quot;,
+    &quot;lastname&quot;: &quot;Rohan&quot;,
+    &quot;totalprice&quot;: 0,
+    &quot;depositpaid&quot;: false,
+    &quot;bookingdates&quot;: null,
+    &quot;additionalneeds&quot;: null
+}
+    </pre>
+</div>
+
+<h4>Headers</h4>
+<div>
+        <div>Cookie: token=8ef2aafa22c9b3c</div>
+        <div>Accept: application/json</div>
+        <div>Content-Type: application/json</div>
+</div>
+
+
+
+<h4>Curl</h4>
+<div>
+curl -v -X PATCH &#39;https://restful-booker.herokuapp.com/booking/476&#39; -H &#39;Cookie: token=8ef2aafa22c9b3c&#39; -H &#39;Accept: application/json&#39; -H &#39;Content-Type: application/json&#39; -d &#39;{
+    &quot;firstname&quot;: &quot;Jordan&quot;,
+    &quot;lastname&quot;: &quot;Rohan&quot;,
+    &quot;totalprice&quot;: 0,
+    &quot;depositpaid&quot;: false,
+    &quot;bookingdates&quot;: null,
+    &quot;additionalneeds&quot;: null
+}&#39;
+</div>

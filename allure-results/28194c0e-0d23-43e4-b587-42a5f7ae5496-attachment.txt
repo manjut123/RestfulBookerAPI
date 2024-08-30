@@ -1,0 +1,1 @@
+{"bookingid":1924,"booking":{"firstname":"Broderick","lastname":"Bogan","totalprice":335,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Voluptatum architecto sint voluptatem reiciendis esse dignissimos."}}

@@ -1,0 +1,1 @@
+{"bookingid":4340,"booking":{"firstname":"Armando","lastname":"Kiehn","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Excepturi ducimus maiores odit expedita voluptatem autem."}}

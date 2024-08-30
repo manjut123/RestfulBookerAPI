@@ -1,0 +1,1 @@
+{"bookingid":476,"booking":{"firstname":"Jerold","lastname":"Spinka","totalprice":128,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Molestiae accusamus tempora fuga et consectetur explicabo."}}

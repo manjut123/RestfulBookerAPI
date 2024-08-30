@@ -1,0 +1,1 @@
+{"bookingid":3759,"booking":{"firstname":"Mike","lastname":"Cormier","totalprice":331,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Consequatur qui autem."}}

@@ -1,0 +1,1 @@
+{"bookingid":990,"booking":{"firstname":"Lucien","lastname":"Beer","totalprice":262,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Quo et laborum."}}

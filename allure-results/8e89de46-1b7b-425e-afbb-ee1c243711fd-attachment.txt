@@ -1,0 +1,1 @@
+{"bookingid":1841,"booking":{"firstname":"Jaime","lastname":"Hegmann","totalprice":383,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Repudiandae commodi neque deleniti omnis ut odit nulla."}}

@@ -1,0 +1,1 @@
+{"bookingid":973,"booking":{"firstname":"Vernita","lastname":"Ward","totalprice":296,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Assumenda sit nisi non consequuntur ullam perferendis."}}

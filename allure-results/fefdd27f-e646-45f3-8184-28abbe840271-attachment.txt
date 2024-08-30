@@ -1,0 +1,1 @@
+{"bookingid":1834,"booking":{"firstname":"Claud","lastname":"Harber","totalprice":454,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Maiores ratione est magni ea."}}

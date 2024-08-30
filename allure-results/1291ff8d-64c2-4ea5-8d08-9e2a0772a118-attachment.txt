@@ -1,0 +1,1 @@
+{"bookingid":2513,"booking":{"firstname":"Antonette","lastname":"Tremblay","totalprice":235,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Veritatis sed minus aperiam corporis sit quo."}}

@@ -1,0 +1,1 @@
+{"bookingid":4297,"booking":{"firstname":"Richard","lastname":"Breitenberg","totalprice":324,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Et totam vitae ut aspernatur."}}

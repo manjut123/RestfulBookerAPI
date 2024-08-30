@@ -1,0 +1,1 @@
+{"bookingid":852,"booking":{"firstname":"Gregory","lastname":"Schultz","totalprice":344,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Consequuntur sit a dicta."}}

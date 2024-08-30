@@ -1,0 +1,1 @@
+{"bookingid":2964,"booking":{"firstname":"Tera","lastname":"Marvin","totalprice":139,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Voluptatem nemo aperiam qui culpa nihil repellendus sit."}}

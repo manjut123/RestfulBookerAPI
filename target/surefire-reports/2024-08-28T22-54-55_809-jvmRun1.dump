@@ -1,0 +1,58 @@
+# Created at 2024-08-28T22:54:59.152
+org.testng.TestNGException: 
+The factory method class tests.BookingTests.factoryMethod() threw an exception
+	at org.testng.internal.FactoryMethod.invoke(FactoryMethod.java:223)
+	at org.testng.internal.TestNGClassFinder.processFactory(TestNGClassFinder.java:174)
+	at org.testng.internal.TestNGClassFinder.processMethod(TestNGClassFinder.java:138)
+	at org.testng.internal.TestNGClassFinder.processClass(TestNGClassFinder.java:129)
+	at org.testng.internal.TestNGClassFinder.<init>(TestNGClassFinder.java:67)
+	at org.testng.TestRunner.initMethods(TestRunner.java:442)
+	at org.testng.TestRunner.init(TestRunner.java:336)
+	at org.testng.TestRunner.init(TestRunner.java:289)
+	at org.testng.TestRunner.<init>(TestRunner.java:179)
+	at org.testng.SuiteRunner$DefaultTestRunnerFactory.newTestRunner(SuiteRunner.java:643)
+	at org.testng.SuiteRunner.init(SuiteRunner.java:225)
+	at org.testng.SuiteRunner.<init>(SuiteRunner.java:115)
+	at org.testng.TestNG.createSuiteRunner(TestNG.java:1349)
+	at org.testng.TestNG.createSuiteRunners(TestNG.java:1325)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1167)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.FactoryMethod.invoke(FactoryMethod.java:184)
+	... 23 more
+Caused by: java.lang.VerifyError: Expecting a stackmap frame at branch target 155
+Exception Details:
+  Location:
+    utils/BookingDataGenerator.generateBooking()Lpojo/Booking; @9: invokestatic
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0000000: b200 8901 01b8 008f 4db8 0095 2cb6 0099
+    0000010: bb00 0759 b700 094b bb00 0a59 b700 0c4c
+    0000020: 2bb2 000d b600 1310 0ab2 0019 b600 1fb6
+    0000030: 0025 b600 2b2b b200 0db6 0013 100a b200
+    0000040: 19b6 002f b600 25b6 0032 2ab2 000d b600
+    0000050: 35b6 0039 b600 3e2a b200 0db6 0035 b600
+    0000060: 41b6 0044 2ab2 000d b600 4710 6411 01f4
+    0000070: b600 4bb6 0051 2ab2 000d b600 55b6 0059
+    0000080: b600 5e2a 2bb6 0062 2ab2 000d b600 66b6
+    0000090: 006a b600 6f2a 3a04 a700 0d4e b800 952d
+    00000a0: b600 9d2d bfb8 0095 b600 a019 04b0     
+  Exception Handler Table:
+    bci [9, 155] => handler: 155
+
+	at tests.BookingTests.factoryMethod(BookingTests.java:72)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 25 more
+
+
